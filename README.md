@@ -15,6 +15,9 @@ Requirements
 
 `mongoengine`
 
+Token
+--
+Chat with Telegram bot [BotFather](https://telegram.me/BotFather) to create a bot and get an access token
 
 Dataset
 --

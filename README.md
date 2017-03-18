@@ -19,6 +19,13 @@ Token
 --
 Chat with Telegram bot [BotFather](https://telegram.me/BotFather) to create a bot and get an access token
 
+Running
+--
+`python3 telegram_bot.py`
+
+Your bot will be live at the bot you created with the BotFather
+
+
 Dataset
 --
 Dataset can be downloaded from [Olam](https://olam.in/open/enml/)
